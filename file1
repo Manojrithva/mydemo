@@ -1,4 +1,8 @@
 hi file1
+<<<<<<< HEAD
 welcome
 
 thanks
+=======
+welcome you
+>>>>>>> 4235bfb40a63916046fe493dc16cfd70a87a3071
